@@ -1,0 +1,12 @@
+body{
+background-color: gainsboro ;
+}
+
+footer {
+background-color: black;
+color: yellow ;
+bottom: 0;
+position: fixed;
+width: 100%;
+
+}
